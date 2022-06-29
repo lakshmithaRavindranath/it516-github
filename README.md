@@ -2,4 +2,3 @@
 Sample Github Repo for students in CLU's IT-516 Data Structures and Algorithms class
 ## Add your name and title below
 * Sean Harrington, Instructor
-* Bill Jones, Graduate Assistant
