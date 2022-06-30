@@ -3,3 +3,4 @@ Sample Github Repo for students in CLU's IT-516 Data Structures and Algorithms c
 ## Add your name and title below
 * Sean Harrington, Instructor
 * Phil McCracken, TA
+* Brittney Elhard
