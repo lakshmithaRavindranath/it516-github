@@ -18,3 +18,4 @@ Sample Github Repo for students in CLU's IT-516 Data Structures and Algorithms c
 * vamsi kiran reddy, student
 *Chillara Saikrishnakarthik,student
 * William Hollingsworth
+* Brittney Elhard
