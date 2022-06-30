@@ -17,4 +17,4 @@ Sample Github Repo for students in CLU's IT-516 Data Structures and Algorithms c
 * Xinwei Tang, MSIT Student
 * vamsi kiran reddy, student
 *Chillara Saikrishnakarthik,student
-*Brittney Elhard
+* William Hollingsworth
