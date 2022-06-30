@@ -5,3 +5,4 @@ Sample Github Repo for students in CLU's IT-516 Data Structures and Algorithms c
 * Phil McCracken, TA
 * Tianyi Wang, Student
 * Cordero, MSIT Student
+* Xinwei Tang, MSIT Student
