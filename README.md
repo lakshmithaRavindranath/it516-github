@@ -7,16 +7,3 @@ Sample Github Repo for students in CLU's IT-516 Data Structures and Algorithms c
 
 - Sean Harrington, Instructor
 - Phil McCracken, TA
-- Tianyi Wang, Student
-- Cordero, MSIT Student
-- Yuanjun Jin, MSIT Student
-* Sean Harrington, Instructor
-* Phil McCracken, TA
-* Tianyi Wang, Student
-* Cordero, MSIT Student
-* Xinwei Tang, MSIT Student
-* vamsi kiran reddy, student
-* Chillara SaiKrishna , Student
-* William Hollingsworth
-* Brittney Elhard
-* Skunti
