@@ -8,3 +8,4 @@ HEAD
 - Sean Harrington, Instructor
 - Sami Almalki
 - Ritesh Moreshwar Barapatre
+- Ina Svanes
