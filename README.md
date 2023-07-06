@@ -10,3 +10,4 @@ HEAD
 - Ritesh Moreshwar Barapatre
 - Ina Svanes
 - Anthony Evangelista
+- Venkata Sai Kaushik Karavadi
