@@ -2,7 +2,7 @@
 
 Sample Github Repo for students in CLU's IT-516 Data Structures and Algorithms class
 
-## Add your name and title below
+## Add your name below
 
 ### IT-516-01: Wednesday Evenings
 - Sami Almalki
