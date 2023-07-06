@@ -6,6 +6,4 @@ Sample Github Repo for students in CLU's IT-516 Data Structures and Algorithms c
 HEAD
 
 - Sean Harrington, Instructor
-- Phil McCracken, TA
-
-# H1 Sami Almalki
+- Sami Almalki
