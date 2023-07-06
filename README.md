@@ -9,3 +9,4 @@ HEAD
 - Sami Almalki
 - Ritesh Moreshwar Barapatre
 - Ina Svanes
+- Anthony Evangelista
