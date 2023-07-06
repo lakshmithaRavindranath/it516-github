@@ -3,9 +3,8 @@
 Sample Github Repo for students in CLU's IT-516 Data Structures and Algorithms class
 
 ## Add your name and title below
-HEAD
 
-- Sean Harrington, Instructor
+### IT-516-01: Wednesday Evenings
 - Sami Almalki
 - Ritesh Moreshwar Barapatre
 - Ina Svanes
@@ -14,3 +13,6 @@ HEAD
 - Reddy Balaji Madha
 - Bhushan Shinde
 - Aryan Desai
+
+### IT-516-02: Thursday Evenings
+- ?
