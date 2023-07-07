@@ -16,3 +16,4 @@ Sample Github Repo for students in CLU's IT-516 Data Structures and Algorithms c
 
 ### IT-516-02: Thursday Evenings
 - Ian Relecker
+- Lakshmitha Ravindranath
